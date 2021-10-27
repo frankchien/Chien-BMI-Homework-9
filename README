@@ -1,0 +1,6 @@
+Please find the write up in pdf format under CHIEN_BMI_500_WEEK_9_Write_Up
+data hadling.R uses R to analyze labevents and writes output.csv
+within this script, filename may need to be changed to run as appropriate
+clustering algorithm.ipynb is the jupyter notebook file used to read in output.csv and apply k-means.
+LABEVENTS.csv and D_LABITEMS.csv were not included due to file size.
+Please obtain these files from physionet as needed
